@@ -1,7 +1,7 @@
 # AMPES2_myPESTLERepo
 Repo for Strategic Management - Theory
 
-# AMPES – Contact & Course Information
+# AMPES2 – Contact & Course Information
 
 ## 1. Email Address
 
