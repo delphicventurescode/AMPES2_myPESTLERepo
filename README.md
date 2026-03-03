@@ -17,7 +17,7 @@ My email address ending in **2012** also works — messages sent to the Gmail ad
 ## 2. Courses I Teach
 
 - **Brand Management** – MBA, Trimester 4  
-- **Data and Decisions** – MBA, Trimester 1
+- **Strategic Management** – MBA, Trimester 2
 
 ## 3. Preferred Mode of Contact
 
