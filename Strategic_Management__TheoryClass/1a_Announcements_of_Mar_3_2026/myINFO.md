@@ -2,7 +2,7 @@
 
 This directory contains additional announcements for **Mar 3, 2026**.
 
-For today's announcements, just go through this file a;sp (that is, this myINFO.md file).
+For today's announcements, just go through this file also (that is, this myINFO.md file).
 
 ---
 
