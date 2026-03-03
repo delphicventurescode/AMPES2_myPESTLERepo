@@ -25,6 +25,8 @@ Email is the **preferred and official** way to reach me.
 
 Only Class Representatives may contact me via WhatsApp or other channels when necessary. (To clarify, I am not available on the phone - other than for Class Reps.)
 
+Email is also the method you should use to put things on record, that is, to leave a paper trail, per standard corporate norms.
+
 ## 4. Professional Standards (Corporate Communication)
 
 As this is a Brand Management course, we will adhere to professional corporate communication standards. Please keep the following in mind:
