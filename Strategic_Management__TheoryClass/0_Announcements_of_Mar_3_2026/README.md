@@ -2,7 +2,7 @@
 
 This directory contains the announcements for **Mar 3, 2026**.
 
-For today's announcements, just go through this file (that is, this README.md file).
+For today's announcements, please go through this file (that is, this README.md file). If there are any other announcements for today, they will be posted in this directory itself.
 
 [+]
 
