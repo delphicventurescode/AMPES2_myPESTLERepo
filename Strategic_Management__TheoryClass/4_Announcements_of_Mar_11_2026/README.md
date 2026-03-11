@@ -1,6 +1,6 @@
 # README
 
-# Subject: Action Required: Setting Up Your GitHub Professional Profile
+#### Subject: Action Required: Setting Up Your GitHub Professional Profile
 
 As we move forward with our coursework in Strategic Management, we will be leveraging GitHub to manage our collaborative project assets and version-controlled documentation. GitHub is increasingly becoming a standard tool in high-level management and technology-driven strategy, as it allows for transparent version control, structured collaboration, and the management of complex projects in a centralized, professional environment. It is essential that you familiarize yourself with this platform now to ensure our team workflows remain efficient and professional throughout the term.
 
