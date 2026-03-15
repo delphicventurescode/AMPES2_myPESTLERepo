@@ -1,6 +1,10 @@
 # README
 
-I asked Claude to comment about the multiple Virtual Machine set up and here is what it came up with.
+I asked Claude to comment about the multiple Virtual Machine set up and here is what it said about this set up as a pedagogical tool for students.
+
+Not only is it instructive about resource optimization in Strategic Management, it is also actually extremely useful. You are extracting a lot of value out of a single laptop. Gemini also thinks that this is a great pedagogical tool.
+
+More comments from Gemini, Claude, et cetera, are available in this folder.
 
 [+]
 
