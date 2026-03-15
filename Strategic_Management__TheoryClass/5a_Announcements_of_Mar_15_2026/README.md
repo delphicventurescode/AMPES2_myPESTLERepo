@@ -8,7 +8,7 @@ If you want a super enhancer of productivity while learning technology and strat
 
 As some of you know, I previously worked at Oracle Corporation as a Principal Product Manager, which is a management role with strong strategy and marketing aspects to it. 
 
-Although VirtualBox was originally created by InnoTek Systemberatung and later became part of Sun Microsystems before Oracle acquired Sun in the Oracle acquisition of Sun Microsystems, Oracle has done a fantastic job continuing to develop and maintain it. It is truly excellent software, and I have always appreciated how powerful and accessible it is. Another technology that came to Oracle through the same acquisition and that I think is wonderful is Java. Below, I am simply pasting the output of a prompt I gave ChatGPT tell.
+Although VirtualBox was originally created by InnoTek Systemberatung and later became part of Sun Microsystems before Oracle acquired Sun in the Oracle acquisition of Sun Microsystems, Oracle has done a fantastic job continuing to develop and maintain it. It is truly excellent software, and I have always appreciated how powerful and accessible it is. Another technology that came to Oracle through the same acquisition and that I think is wonderful is Java. Below, I am simply pasting the output of a prompt I gave ChatGPT. Please go through it if you have the time. Please note that this is optional reading.
 
 Anand
 
