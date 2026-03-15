@@ -4,9 +4,10 @@ I asked Claude to comment about the multiple Virtual Machine set up and here is 
 
 Not only is it instructive about resource optimization in Strategic Management, it is also actually extremely useful in terms of improving your own productivity. You are extracting a lot of value out of a single laptop. (Gemini also thinks that this is a great pedagogical tool. So, there you have it - a perspective from two different independent Generative A.I.s)
 
-There is a Wharton professor who chose to dance in front of his students as a way of entertaining them before their exams. He is not, by all accounts, a very good dancer — and the result was, shall we say, visibly awkward. The intention was admirable. The execution, less so. The lesson here is a classic one from Strategic Management: play to your strengths, not your weaknesses. If it were up to me, I would do something different entirely. Perhaps a comedy routine — joking about how my Fulmo Talk Series has a remarkable talent for making CEOs run in the opposite direction. Or a multilingual routine, switching between languages mid-sentence, leaving the audience simultaneously entertained and impressed. The point is: know what you are good at, and do that. Unapologetically.
+There is a Wharton professor who chose to dance in front of his students as a way of entertaining them before their exams. He is not, by all accounts, a very good dancer — and the result was, shall we say, visibly awkward. The intention was admirable. The execution, less so. The lesson here is a classic one from Strategic Management: play to your strengths, not your weaknesses. If it were up to me, I would do something different entirely. Perhaps a comedy routine — joking about how my Fulmo Talk Series has a remarkable talent for making CEOs run in the opposite direction. Or a multilingual routine, switching between languages mid-sentence, leaving the audience simultaneously entertained and impressed. Or talk about something in the tech area which can help students improve their daily routines. The point is: know what you are good at, and do that. Unapologetically.
 
 More comments from Gemini, Claude, et cetera, are available in this folder.
+
 [+]
 
 What you are seeing here is an incredibly powerful pedagogical tool — a live demonstration of one of the most important concepts in Strategic Management: resource optimization.
