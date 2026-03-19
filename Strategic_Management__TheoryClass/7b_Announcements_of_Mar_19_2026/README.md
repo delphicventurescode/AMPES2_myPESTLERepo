@@ -10,7 +10,7 @@ I've made some changes to the presentation schedule.
 
 Please refer to Columns G and H of the updated spreadsheet for details.
 
-**[ UPDATE OF MARCH 19, 2026 ]**
+**[ UPDATE OF MARCH 19, 2026 - late evening ]**
 
 There was a discussion on the class' main WhatsApp Group about this spreadsheet today, with various student questions answered. Please make sure to go through this discussion to have any questions about how this spreadsheet works clarified.
 
