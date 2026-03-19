@@ -12,7 +12,7 @@ Please refer to Columns G and H of the updated spreadsheet for details.
 
 **[ UPDATE OF MARCH 19, 2026 - late evening ]**
 
-There was a discussion on the class' main WhatsApp Group about this spreadsheet today, with various student questions answered. Please make sure to go through this discussion to have any questions about how this spreadsheet works clarified.
+We discussed this spreadsheet today on the main WhatsApp group and addressed several student questions. Please review that conversation to clarify any remaining points regarding how the schedule and spreadsheet are structured.
 
 Best,
 Anand
