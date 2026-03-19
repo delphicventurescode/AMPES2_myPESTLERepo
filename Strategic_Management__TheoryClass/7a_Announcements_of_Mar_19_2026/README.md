@@ -1,6 +1,7 @@
 # README
 
 [+]
+
 **Subject:** Update: Research Topic Assignments and Resources
 
 Dear Students,
