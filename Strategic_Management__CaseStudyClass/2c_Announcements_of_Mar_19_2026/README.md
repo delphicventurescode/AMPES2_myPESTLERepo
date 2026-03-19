@@ -1,0 +1,9 @@
+# README
+
+#### Subject: Action Required: Setting Up Your GitHub Professional Profile
+
+As we move forward with our coursework in Strategic Management, we will be leveraging GitHub to manage our collaborative project assets and version-controlled documentation. GitHub is increasingly becoming a standard tool in high-level management and technology-driven strategy, as it allows for transparent version control, structured collaboration, and the management of complex projects in a centralized, professional environment. It is essential that you familiarize yourself with this platform now to ensure our team workflows remain efficient and professional throughout the term.
+
+Please create your professional GitHub account as soon as possible. When setting up your profile, I strongly encourage you to use your professional email address and a clear, recognizable username. Think of this as an extension of your digital professional footprint—much like LinkedIn, it is a repository for your intellectual contributions and project work. Once you have created your account, please ensure your profile is set to "Public" so that your team members can easily collaborate with you on our upcoming repository.
+
+Beyond just housing our course materials, learning to navigate and utilize GitHub will provide you with a tangible skill that demonstrates your ability to operate in modern, agile, and tech-forward business environments. Having this setup completed immediately is critical, as we have several collaborative milestones approaching that will require seamless version control. If you encounter any technical hurdles during the registration process, please reach out to the teaching assistant or consult the platform’s onboarding documentation today so that you are ready to hit the ground running by our next session.
