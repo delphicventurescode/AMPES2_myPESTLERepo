@@ -5,7 +5,7 @@ This post is optional reading.
 [+]
 # Turning a Laptop into a Linux Machine Farm — A Note on Interoperability
 
-Earlier in class we discussed the idea of turning an ordinary laptop into a **small “machine farm”** by running multiple Linux virtual machines. A single computer can host many independent operating systems simultaneously using virtualization software such as Oracle VM VirtualBox.
+Earlier in class we discussed the idea of turning an ordinary laptop into a **small “machine farm”** by running multiple Linux virtual machines. A single computer can host many independent operating systems simultaneously using virtualization software such as Oracle VirtualBox. Not only can you run Virtual Machines on Windows, you can also run them on MacOS.
 
 What is interesting about this setup is not just the technical trick. It illustrates an important concept that appears repeatedly in technology strategy: **interoperability**.
 
